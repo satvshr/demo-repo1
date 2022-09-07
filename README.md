@@ -7,3 +7,9 @@ Edit: Edit 1
 
 sub header text.
 ayooooo
+
+## Local development
+
+1.Open index.html in your browser.
+
+
